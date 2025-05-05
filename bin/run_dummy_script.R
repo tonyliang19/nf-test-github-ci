@@ -1,3 +1,4 @@
+#!/usr/bin/env Rscript
 # This calls bunch of library and print session info
 
 # And print input
